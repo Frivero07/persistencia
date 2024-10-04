@@ -1,0 +1,14 @@
+C:\Users\lenovo\source\repos\persistencia\Contadorpersistencia\bin\Debug\net8.0\Contadorpersistencia.exe
+C:\Users\lenovo\source\repos\persistencia\Contadorpersistencia\bin\Debug\net8.0\Contadorpersistencia.deps.json
+C:\Users\lenovo\source\repos\persistencia\Contadorpersistencia\bin\Debug\net8.0\Contadorpersistencia.runtimeconfig.json
+C:\Users\lenovo\source\repos\persistencia\Contadorpersistencia\bin\Debug\net8.0\Contadorpersistencia.dll
+C:\Users\lenovo\source\repos\persistencia\Contadorpersistencia\bin\Debug\net8.0\Contadorpersistencia.pdb
+C:\Users\lenovo\source\repos\persistencia\Contadorpersistencia\obj\Debug\net8.0\Contadorpersistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\persistencia\Contadorpersistencia\obj\Debug\net8.0\Contadorpersistencia.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\persistencia\Contadorpersistencia\obj\Debug\net8.0\Contadorpersistencia.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\persistencia\Contadorpersistencia\obj\Debug\net8.0\Contadorpersistencia.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\persistencia\Contadorpersistencia\obj\Debug\net8.0\Contadorpersistencia.dll
+C:\Users\lenovo\source\repos\persistencia\Contadorpersistencia\obj\Debug\net8.0\refint\Contadorpersistencia.dll
+C:\Users\lenovo\source\repos\persistencia\Contadorpersistencia\obj\Debug\net8.0\Contadorpersistencia.pdb
+C:\Users\lenovo\source\repos\persistencia\Contadorpersistencia\obj\Debug\net8.0\Contadorpersistencia.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\persistencia\Contadorpersistencia\obj\Debug\net8.0\ref\Contadorpersistencia.dll
