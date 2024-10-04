@@ -1,0 +1,4 @@
+C:\Users\lenovo\source\repos\ContadorConPersisitencia\ContadorConPersisitencia\obj\Debug\net8.0\ContadorConPersisitencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\ContadorConPersisitencia\ContadorConPersisitencia\obj\Debug\net8.0\ContadorConPersisitencia.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\ContadorConPersisitencia\ContadorConPersisitencia\obj\Debug\net8.0\ContadorConPersisitencia.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\ContadorConPersisitencia\ContadorConPersisitencia\obj\Debug\net8.0\ContadorConPersisitencia.csproj.CoreCompileInputs.cache
